@@ -1,16 +1,11 @@
-# counter_app
+A Simple Counter App using Flutter
 
-A new Flutter project.
+This tiny application is like change the color of container and change the size of fonts .
 
-## Getting Started
+->here one of Change the color of container screenshot.
 
-This project is a starting point for a Flutter application.
+![color_change](https://github.com/user-attachments/assets/49af7b9b-1b2f-4d23-9694-ce5649902a0d)
 
-A few resources to get you started if this is your first Flutter project:
+->another one of font size change.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![font_size_change](https://github.com/user-attachments/assets/7adc98bd-dbe6-40d5-91b9-fcb8119e6d0a)
